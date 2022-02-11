@@ -1,6 +1,6 @@
 import home from "../public/home.jpg";
-import Navbar from "../conponents/Navbar";
-import Card from "../conponents/Card";
+import Navbar from "../components/Navbar";
+import Card from "../components/Card";
 
 export default function Home() {
   return (
